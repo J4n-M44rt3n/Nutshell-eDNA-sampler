@@ -15,3 +15,12 @@ Glue the ball bearings into the printed blade holders. For better bonding, rough
 <img src="./Media/dnair-assembly-03.JPG" width=300>
 <img src="./Media/dnair-assembly-06.JPG" width=300>
 </p>
+
+### 02
+Glue the 'closing screw bottom' to the ball bearing of the bottom blade holder. Again, roughen the contact surfaces first. I find it hard to apply the exact right amount of glue, so I overdo it and then use a q-tip to soak up the excess glue. The q-tip has a nasty chemical reaction to the ca glue (gets all hot, bad fumes) so be careful! I always wear a mask and gloves. A trick to align the bottom screw part properly is to screw in the core part to the bottom part, and then push the core plus screw through the central hole in the ball bearing until the contact surfaces meet. It sets quickly and you can easily unscrew the cre part again.
+<p align="left">
+<img src="./Media/dnair-assembly-09.JPG" width=300>
+<img src="./Media/dnair-assembly-10.JPG" width=300>
+<img src="./Media/dnair-assembly-13.JPG" width=300>
+</p>
+
