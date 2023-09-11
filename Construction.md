@@ -4,6 +4,7 @@ The picture below gives you an overview of the tools and parts you'll need to bu
 <p align="left">
 <img src="./Media/dnair-assembly-01.JPG" width=500>
 </p>
+
 ## Steps
 
 ### 01
