@@ -5,6 +5,7 @@ The picture below gives you an overview of the tools and parts you'll need to bu
 <img src="./Media/dnair-assembly-01.JPG" width=500>
 </p>
 ## Steps
+
 ### 01
 Glue the ball bearings into the printed blade holders. For better bonding, roughen the contact surfaces first. I used cyanoacrylate 'super' glue. Time will tell if this is the best glue to weather the elements.
 <p align="left">
