@@ -9,7 +9,7 @@ The picture below gives you an overview of the tools and parts you'll need to bu
 ## Steps
 
 ### 01 Join ball bearings and blade holders
-Glue the ball bearings into the printed blade holders. For better bonding, roughen the contact surfaces first. I used cyanoacrylate 'super' glue. Time will tell if this is the best glue to weather the elements. The ball bearings have a top side (only outer and inner ring show) and a bottom side (placeholder balls also shows). Glue the ball bearings such that the top sides face outward.
+Glue the ball bearings into the printed blade holders. For better bonding, roughen the contact surfaces first. I used cyanoacrylate 'super' glue. Time will tell if this is the best glue to weather the elements. The ball bearings have a top side (only outer and inner ring show) and a bottom side (placeholder balls also shows). Glue the ball bearings such that the top sides face outward. The bladeholders will be oriented such that they slant downwards.
 <p align="left">
 <img src="./Media/dnair-assembly-02.JPG" width=300>
 <img src="./Media/dnair-assembly-03.JPG" width=300>
