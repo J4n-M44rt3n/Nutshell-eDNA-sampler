@@ -51,5 +51,5 @@ Insert a bit of cotton wool into the core. Close the core with the two remaining
 ## .. and Go
 
 <p align="left">
-<img src="./Media/eDNA-collector.mp4" width=300>
+<source src="./Media/eDNA-collector.mp4" width=300>
 </p>
