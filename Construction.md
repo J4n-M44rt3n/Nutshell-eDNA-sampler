@@ -49,6 +49,6 @@ Insert a bit of cotton wool into the core. Close the core with the two remaining
 
 
 ## .. and Go
-<video width="160" height="240" controls>
-  <source src="./Media/eDNA-collector.mp4" type="video/mp4">
-</video>
+
+./Media/eDNA-collector.mp4
+
