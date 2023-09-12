@@ -1,6 +1,6 @@
 # Assembly of the DNAir sampler
 ## Tools and parts
-The picture below gives you an overview of the tools and parts you'll need to build the DNAir sampler for collecting environmental DNA. Printable 3D files are in the [3D-files folder](./3D-files). Additionally, you'll need two plastic 6804 ball bearings and three 0.3 mm 8x10 cm polysterene blades per sampler. Not pictured but good to have around are a ruler and powdered graphite with a brush, for lubrication. Also not pictured is the stereolithography 3D printer.
+The picture below gives you an overview of the tools and parts you'll need to build the DNAir sampler for collecting environmental DNA. Printable 3D files are in the [3D-files folder](./3D-files). Additionally, you'll need two plastic 6804 ball bearings and three 0.3 mm 8x10 cm polysterene blades per sampler. Not pictured but good to have around are a ruler and powdered graphite with a brush, for lubrication. Also not pictured is a stereolithography 3D printer.
 <p align="left">
 <img src="./Media/dnair-assembly-01.JPG" width=500>
 </p>
@@ -30,4 +30,19 @@ Insert the blades; both blade holders should slant slightly downward, to drain m
 <img src="./Media/dnair-assembly-15.JPG" width=300>
 <img src="./Media/dnair-assembly-17.JPG" width=300>
 <img src="./Media/dnair-assembly-19.JPG" width=300>
+</p>
+
+### 04 Lubrication
+A lttle lubrication goes a long way to smoothen operation. I use a brush to insert graphite powder to moving parts, i.e. the ball bearings and the threads. Don't use oil, mineral or otherwise, as it may weaken the cyanoacrylate bonds.
+<p align="left">
+<img src="./Media/dnair-assembly-04.JPG" width=300>
+<img src="./Media/dnair-assembly-05.JPG" width=300>
+</p>
+
+### 05 Final assembly
+Insert a bit of cotton wool into the core. Close the core with the two remaining screws. Your airborne eDNA sampler is now ready for use.
+<p align="left">
+<img src="./Media/dnair-assembly-20.JPG" width=300>
+<img src="./Media/dnair-assembly-21.JPG" width=300>
+<img src="./Media/dnair-assembly-22.JPG" width=300>
 </p>
