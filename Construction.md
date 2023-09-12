@@ -50,5 +50,5 @@ Insert a bit of cotton wool into the core. Close the core with the two remaining
 
 ## .. and Go
 
-./Media/eDNA-collector.mp4
+https://github.com/J4n-M44rt3n/DNAir-sampler/blob/master/Media/eDNA-collector.mp4
 
