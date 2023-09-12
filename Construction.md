@@ -46,3 +46,10 @@ Insert a bit of cotton wool into the core. Close the core with the two remaining
 <img src="./Media/dnair-assembly-21.JPG" width=300>
 <img src="./Media/dnair-assembly-22.JPG" width=300>
 </p>
+
+
+## .. and Go
+
+<p align="left">
+<img src="./Media/eDNA-collector.mp4" width=300>
+</p>
