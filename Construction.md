@@ -1,50 +1,33 @@
 # Assembly of the DNAir sampler
 ## Tools and parts
-The picture below gives you an overview of the tools and parts you'll need to build the DNAir sampler for collecting environmental DNA. Printable 3D files are in the [3D-files folder](./3D-files). Additionally, you'll need two plastic 6804 ball bearings and three 0.3 mm 8x10 cm polystyrene blades per sampler. Not pictured but good to have around are a ruler and powdered graphite with a brush, for lubrication. Also not pictured is a stereolithography 3D printer.
+The picture below gives you an overview of the tools and parts you'll need to assemble the DNAir sampler to collect airborne, environmental DNA. Printable 3D files are in the 3D-files folder. Additionally, per sampler you'll need two plastic 6804 ball bearings, an M4 wingnut, and an M4-30 mm wingbolt. Most recently, I have bought the ball bearings here [https://gzhearing.en.alibaba.com/], at 35 eurocent a piece.
 <p align="left">
-<img src="./Media/dnair-assembly-01.JPG" width=500>
+<img src="./Media/assemble-DNAir-sampler-00.png" width=500>
 </p>
 
 
 ## Steps
 
-### 01 Join ball bearings and blade holders
-Glue the ball bearings into the printed blade holders. For better bonding, roughen the contact surfaces first. I used cyanoacrylate 'super' glue. Time will tell if this is the best glue to weather the elements. The ball bearings have a top side (only outer and inner ring show) and a bottom side (placeholder balls also shows). Glue the ball bearings such that the top sides face outward. The bladeholders will be oriented such that they slant downwards.
+### 01 Join the threaded part to the connector part
+If you printed the non-core sampler parts with ASA or PET filament, you will be able to use MEK to weld printed parts together. I always keep a needle-topped squeeze bottle filled with MEK handy for this purpose. Drip enough MEK on the flat side of the threaded part for it to be completely covered in fluid, then wait for the MEK to soften the plastic. After about a minute the MEK will have mostly evaporated but the surface will still look wet. This is a good moment to fit the parts together, for which I use the aligning-aid printed part. Press it, then let it set for a couple of minutes.
 <p align="left">
-<img src="./Media/dnair-assembly-02.JPG" width=300>
-<img src="./Media/dnair-assembly-03.JPG" width=300>
-<img src="./Media/dnair-assembly-06.JPG" width=300>
+<img src="./Media/assemble-DNAir-sampler-01.png" width=400>
 </p>
 
-### 02 Glue the closing screw to the lower blade holder
-Glue the 'closing screw bottom' part to the ball bearing of the bottom blade holder. Again, roughen the contact surfaces first. I find it hard to apply the exact right amount of glue, so I overdo it a little and then use a q-tip to soak up the excess glue. The q-tip has a nasty chemical reaction to the ca glue (gets all hot, bad fumes) so be careful! I always wear a mask and gloves. A trick to align the bottom screw part properly is to screw in the core part to the bottom part, and then push the core plus screw through the central hole in the ball bearing until the contact surfaces meet. It sets quickly and you can easily unscrew the core part next.
+### 02 Join ball bearings and housing parts
+Glue the ball bearings into the printed top- and bottom housing parts. I used cyanoacrylate 'super' glue. The ball bearings have a top side (balls are covered with a strip to protect them from the elements) and a bottom side (no strip). Glue the ball bearings such that the top sides will face outward. Let it set for a couple of minutes.
 <p align="left">
-<img src="./Media/dnair-assembly-09.JPG" width=300>
-<img src="./Media/dnair-assembly-10.JPG" width=300>
-<img src="./Media/dnair-assembly-13.JPG" width=300>
+<img src="./Media/assemble-DNAir-sampler-02.png" width=400>
 </p>
 
-### 03 Insert and fix the blades
-Insert the blades; both blade holders should slant slightly downward, to drain moisture in a real-world setting. The slits in the bladeholders are a little over 10 cm wide, fit the blades in so that their 10 cm sides will fit horizontally and their 8 cm sides vertically. The distance between bladeholders should be about 65 mm. If you hold the DNAir sampler-to-be by the bottom screw and give it a careful, exploratory spin, the imaginary axis between the ball bearings should stay straight and not be wobbly. Wobbly would be bad, i.e. introduce unnecessary friction in the sampler. Glue the blades in place. I glue the edges first and let it set before glueing the lengths. A little extra glue will close parts of the slits that are not filled by the blades. After all is set and done, cut of any excess length of the blades.
+### 03 Join the top housing part to the bottom one
+If these parts are printed with ASA or PET, you can use MEK to weld them together. Fit the parts together so the blades of the bottom part touch the surface of the top part. Flip the parts so the top part is under. Now you can use the needle-tipped MEK bottle dispenser to fill the contact spaces between the blades and the surface with MEK. Press the parts together for some twenty seconds, then let it rest for a couple of minutes.
 <p align="left">
-<img src="./Media/dnair-assembly-15.JPG" width=300>
-<img src="./Media/dnair-assembly-17.JPG" width=300>
-<img src="./Media/dnair-assembly-19.JPG" width=300>
+<img src="./Media/assemble-DNAir-sampler-03.png" width=400>
 </p>
 
-### 04 Lubrication
-A lttle lubrication goes a long way to smoothen operation. I use a brush to insert graphite powder to moving parts, i.e. the ball bearings and the threads. Don't use oil, mineral or otherwise, as it may weaken the cyanoacrylate bonds.
+### 04 Final assembly
+After you left the bonded parts alone for a couple of hours for the bonds to properly harden, insert your filter in the core part. A bit of cotton wool would work (viscose), or a folded Whatman filter, maybe a vaseline-covered surface, whatever work best for you. Screw the core onto the connector, pass it through both ball bearings of the housing, and seal the bottom with the bottom screw part. Now fit the mounting part through the connector, and use the wingnut and bolt to fix sampler and mounting part together. You are good to go! I use tie wraps to fix the connector to a pole or branch wherever I want to collect environmental DNA.
 <p align="left">
-<img src="./Media/dnair-assembly-04.JPG" width=300>
-<img src="./Media/dnair-assembly-05.JPG" width=300>
+<img src="./Media/assemble-DNAir-sampler-04.png" width=400>
 </p>
-
-### 05 Final assembly
-Insert a bit of cotton wool into the core. Close the core with the two remaining screws. Your airborne eDNA sampler is now ready for use.
-<p align="left">
-<img src="./Media/dnair-assembly-20.JPG" width=300>
-<img src="./Media/dnair-assembly-21.JPG" width=300>
-<img src="./Media/dnair-assembly-22.JPG" width=300>
-</p>
-
-
