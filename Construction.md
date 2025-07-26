@@ -9,7 +9,7 @@ The picture below gives you an overview of the tools and parts you'll need to as
 ## Steps
 
 ### 01 Join the threaded part to the connector part
-If you printed the non-core sampler parts with ASA or PET filament, you will be able to use MEK to weld printed parts together. I always keep a needle-topped squeeze bottle filled with MEK handy for this purpose. Drip enough MEK on the flat side of the threaded part for it to be completely covered in fluid, then wait for the MEK to soften the plastic. After about a minute the MEK will have mostly evaporated but the surface will still look wet. This is a good moment to fit the parts together, for which I use the aligning-aid printed part. Press it, then let it set for a couple of minutes.
+If you printed the non-core sampler parts with ASA or PETG filament, you will be able to use MEK to weld printed parts together. I always keep a needle-topped squeeze bottle filled with MEK handy for this purpose. Drip enough MEK on the flat side of the threaded part for it to be completely covered in fluid, then wait for the MEK to soften the plastic. After about a minute the MEK will have mostly evaporated but the surface will still look wet. This is a good moment to fit the parts together, for which I use the aligning-aid printed part. Press it, then let it set for a couple of minutes.
 <p align="left">
 <img src="./Media/assemble-DNAir-sampler-01.png" width=500>
 </p>
@@ -21,7 +21,7 @@ Glue the ball bearings into the printed top- and bottom housing parts. I used cy
 </p>
 
 ### 03 Join the top housing part to the bottom one
-If these parts are printed with ASA or PET, you can use MEK to weld them together. Fit the parts together so the blades of the bottom part touch the surface of the top part. Flip the parts so the top part is under. Now you can use the needle-tipped MEK bottle dispenser to fill the contact spaces between the blades and the surface with MEK. Press the parts together for some twenty seconds, then let it rest for a couple of minutes.
+If these parts are printed with ASA or PETG, you can use MEK to weld them together. Fit the parts together so the blades of the bottom part touch the surface of the top part. Flip the parts so the top part is under. Now you can use the needle-tipped MEK bottle dispenser to fill the contact spaces between the blades and the surface with MEK. Press the parts together for some twenty seconds, then let it rest for a couple of minutes.
 <p align="left">
 <img src="./Media/assemble-DNAir-sampler-03.png" width=500>
 </p>
