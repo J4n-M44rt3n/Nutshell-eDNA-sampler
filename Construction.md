@@ -1,6 +1,6 @@
 # Assembly of the Nutshell eDNA sampler
 ## Tools and parts
-The picture below gives you an overview of the tools and parts you'll need to assemble the Nutshell eDNA sampler to collect airborne, environmental DNA. Printable 3D files are in the [3D-files folder](https://github.com/J4n-M44rt3n/DNAir-sampler/tree/master/3D-files). Additionally, per sampler you'll need two plastic 6804 ball bearings, an M4 wingnut, and an M4-30 mm wingbolt. Most recently, I have bought the ball bearings [here](https://gzhearing.en.alibaba.com/), at 35 eurocent a piece. The glue I use here is cyanoacrylate glue, the squeezy needle-tipped dispenser bottle contains MEK.
+The picture below gives you an overview of the tools and parts you'll need to assemble the Nutshell eDNA sampler to collect airborne, environmental DNA. Printable 3D files are in the [3D-files folder](https://github.com/J4n-M44rt3n/Nutshell-eDNA-sampler/tree/master/3D-files). Additionally, per sampler you'll need two plastic 6804 ball bearings, an M4 wingnut, and an M4-30 mm wingbolt. Most recently, I have bought the ball bearings [here](https://gzhearing.en.alibaba.com/), at 35 eurocent a piece. The glue I use here is cyanoacrylate glue, the squeezy needle-tipped dispenser bottle contains MEK.
 <p align="left">
 <img src="./Media/assemble-DNAir-sampler-00.png" width=500>
 </p>
@@ -31,4 +31,5 @@ After you left the bonded parts alone for a couple of hours for the bonds to pro
 <p align="left">
 <img src="./Media/assemble-DNAir-sampler-04.png" width=500>
 </p>
+
 
